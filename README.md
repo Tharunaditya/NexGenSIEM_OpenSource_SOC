@@ -23,7 +23,7 @@ Our project leverages cutting-edge technologies such as Docker for efficient con
 
 
 # Architecture-Diagram:
-<p align="center"><img src="images/SE_Diagrams/Architecture\Light.png">
+<p align="center"><img src="images/SE_Diagrams/Architecturelight.png">
 </p>
 
 # Components Used:

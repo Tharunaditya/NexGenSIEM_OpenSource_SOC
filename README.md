@@ -82,7 +82,7 @@ Phone: 7989056568
 
 We welcome your contributions, Please feel free to fork the code, play with it, make some patches and send us pull requests.
 
-Before you contribute please refer the [contribution guidelines](https://github.com/Tharunaditya/NexGenSIEM_OpenSource_SOC/blob/main/CONTRIBUTING).
+Before you contribute please refer the [contribution guidelines](https://github.com/Tharunaditya/NexGenSIEM_OpenSource_SOC/blob/main/CONTRIBUTING.md).
 
 # Support 
 - Please feel free to open an issue on Github

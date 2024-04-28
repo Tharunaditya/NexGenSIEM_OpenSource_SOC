@@ -5,11 +5,11 @@
 
 ## Table of Contents
 1. [Introdution](#Introduction)
-2. [Architecture Diagram](#Architecture)
-3. [Components Used](#Components)
+2. [Architecture Diagram](#Architecture-Diagram)
+3. [Components Used](#Components-Used)
 4. [Features](#Features)
-5. [Installation Requirements](#Requirements)
-6. [Installation guide](#Installation)
+5. [Installation Requirements](#Installation-Requirements)
+6. [Installation guide](#Installation-Guide)
 7. [Contribution](#Contribution)
 8. [Support](#Support)
 

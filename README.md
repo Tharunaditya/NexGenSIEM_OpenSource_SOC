@@ -10,7 +10,7 @@
 4. [Features](#Features)
 5. [Installation Requirements](#Installation-Requirements)
 6. [Installation guide](#Installation-Guide)
-7. [Contribution](#Contribution)
+7. [Contributing](#Contributing)
 8. [Support](#Support)
 
 # Introduction:
@@ -78,7 +78,7 @@ For Installation and setup please contact us
 Email: anuganti9@gmail.com / tharunadityaanuganti@gmail.com
 Phone: 7989056568
 
-# Contribution
+# Contributing
 
 We welcome your contributions, Please feel free to fork the code, play with it, make some patches and send us pull requests.
 

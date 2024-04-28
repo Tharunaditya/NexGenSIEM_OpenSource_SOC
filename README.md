@@ -4,13 +4,13 @@
 "NexGen SIEM" boosts SOC capabilities with open-source tech, centralizing data, automating incident response playbook generation, and enabling collaborative threat hunting. Integration with threat intel platforms enhances defense against cyber risks for a resilient Cybersecurity approach.
 
 ## Table of Contents
-1. [Introdution](#introduction)
+1. [Introdution](#Introduction)
 2. [Architecture Diagram](#Architecture)
-3. [Components Used](#components)
+3. [Components Used](#Components)
 4. [Features](#Features)
 5. [Installation Requirements](#Requirements)
 6. [Installation guide](#Installation)
-7. [Contribution](#contribution)
+7. [Contribution](#Contribution)
 8. [Support](#Support)
 
 # Introduction:
@@ -26,7 +26,7 @@ Our project leverages cutting-edge technologies such as Docker for efficient con
 <p align="center"><img src="Images/SE_Diagrams/Architecturelight.png">
 </p>
 
-# Components Used:
+# Components-Used:
 
 All components used in this project are Open Source.
 

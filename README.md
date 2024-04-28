@@ -82,10 +82,13 @@ Phone: 7989056568
 
 We welcome your contributions, Please feel free to fork the code, play with it, make some patches and send us pull requests.
 
-Before you contribute please refer the contribution guidelines.
+Before you contribute please refer the [contribution guidelines](https://github.com/Tharunaditya/NexGenSIEM_OpenSource_SOC/blob/main/CONTRIBUTING).
 
 # Support 
 - Please feel free to open an issue on Github
   if you'd like to report a bug or request a new feature
 - If you are a non technical person and you need to setup this on premisies or on cloud please hire us!
+
+# License
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tharunaditya/NexGenSIEM_OpenSource_SOC/blob/main/LICENSE)  file for details 
 
